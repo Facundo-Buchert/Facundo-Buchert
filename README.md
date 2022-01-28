@@ -5,19 +5,23 @@
   </a>
 </h1>
 
-<!---
-<p aling="rigth">
-[![LinkedIn](icons/linkedin.png )](https://www.linkedin.com/in/hussainweb/)
-[![Instagram](icons/instagram.png)](https://www.instagram.com/facu_buchert/)
-<a><img alt="Discord - Sinkmorder#8154" title="Discord - Sinkmorder#8154" height="32" width="32" src="icons/discord.svg"></a>
-</p>
---->
+
+
 <p align="right">
-  <a><img alt="Discord - Sinkmorder#8154" title="Discord - Sinkmorder#8154" height="32" width="32" src="assets/discord.svg"></a>
+  <a><img alt="Discord - Sinkmorder#8154" title="Discord - Sinkmorder#8154" height="32" width="32" src="icons/discord.svg"></a>
   <a href="https://www.instagram.com/facu_buchert/"><img alt="Instagram" height="32" width="32" src="icons/instagram.png"></a>
   <a href="https://www.linkedin.com/in/facundo-nahuel-b%C3%BCchert-b50ba6229/"><img alt="LinkedIn" height="32" width="32" src="icons/linkedin.png"></a>
 </p>
 
+
+  **Hello! I am Facundo Nahuel Büchert and I am 16 years old. I live in Buenos Aires but I was born in Córdoba (Argentina). I am learning programming because I am very excited about it, I started with web programming but I want to try to learn game development because a lot of the code I did in web development was for minigames. At the bottom of the page you can find some of them.**
+  
+  
+***For Web Programming: I learned to use*** `JavaScript`***,*** `HTML` ***and*** `CSS`***.*** ***For all this I use*** `Visual Studio Code`
+
+<!--
+<a><img alt="Java Script" title="Java Script" height="32" width="32" src="icons/javascript.png"></a>
+-->
   
 
 <h2 align="center"> 👨‍💻 Stats 👨‍💻 </h2> :
