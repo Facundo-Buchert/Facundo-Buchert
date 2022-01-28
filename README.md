@@ -5,6 +5,12 @@
   </a>
 </h1>
 
+**Social Media:**
+
+[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/hussainweb/)
+[![Instagram](icons/instagram.png)](https://www.instagram.com/facu_buchert/)
+
+
 <h2 align="center"> 👨‍💻 Stats 👨‍💻 </h2> :
 <br>
 <p align=center>
