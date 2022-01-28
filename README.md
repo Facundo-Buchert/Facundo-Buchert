@@ -5,11 +5,20 @@
   </a>
 </h1>
 
-**Social Media:**
-
-[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/hussainweb/)
+<!---
+<p aling="rigth">
+[![LinkedIn](icons/linkedin.png )](https://www.linkedin.com/in/hussainweb/)
 [![Instagram](icons/instagram.png)](https://www.instagram.com/facu_buchert/)
+<a><img alt="Discord - Sinkmorder#8154" title="Discord - Sinkmorder#8154" height="32" width="32" src="icons/discord.svg"></a>
+</p>
+--->
+<p align="right">
+  <a><img alt="Discord - Sinkmorder#8154" title="Discord - Sinkmorder#8154" height="32" width="32" src="assets/discord.svg"></a>
+  <a href="https://www.instagram.com/facu_buchert/"><img alt="Instagram" height="32" width="32" src="icons/instagram.png"></a>
+  <a href="https://www.linkedin.com/in/facundo-nahuel-b%C3%BCchert-b50ba6229/"><img alt="LinkedIn" height="32" width="32" src="icons/linkedin.png"></a>
+</p>
 
+  
 
 <h2 align="center"> 👨‍💻 Stats 👨‍💻 </h2> :
 <br>
