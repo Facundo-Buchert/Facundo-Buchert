@@ -14,7 +14,7 @@
 </p>
 
 
-  **Hello! I am Facundo Nahuel Büchert and I am 16 years old. I live in Buenos Aires but I was born in Córdoba (Argentina). I am learning programming because I am very excited about it, I started with web programming but I want to try to learn game development because a lot of the code I did in web development was for minigames. At the bottom of the page you can find some of them.**
+  **Hello! I am Facundo Nahuel Büchert and I am 17 years old. I live in Buenos Aires but I was born in Córdoba (Argentina). I am learning programming because I am very excited about it, I started with web programming but I want to try to learn game development because a lot of the code I did in web development was for minigames. At the bottom of the page you can find some of them.**
   
   
 ***For Web Programming: I learned to use*** `JavaScript`***,*** `HTML` ***and*** `CSS`***.*** ***For all this I use*** `Visual Studio Code`
