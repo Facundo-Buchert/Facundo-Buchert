@@ -23,7 +23,7 @@
 <a><img alt="Java Script" title="Java Script" height="32" width="32" src="icons/javascript.png"></a>
 -->
   
-/*
+<!--
 <h2 align="center"> 👨‍💻 Stats 👨‍💻 </h2> :
 <br>
 <p align=center>
@@ -44,4 +44,4 @@
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=Facundo-Buchert&theme=darcula&bg_color=%23D78E0C&hide_border=true" width="100%"/>
 </p>
-*/
+-->
