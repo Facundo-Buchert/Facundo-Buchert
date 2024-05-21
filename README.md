@@ -8,7 +8,6 @@
 
 
 <p align="right">
-  <a><img alt="Discord - Sinkmorder#8154" title="Discord - Sinkmorder#8154" height="32" width="32" src="icons/discord.svg"></a>
   <a href="https://www.instagram.com/facu_buchert/"><img alt="Instagram" height="32" width="32" src="icons/instagram.png"></a>
   <a href="https://www.linkedin.com/in/facundo-nahuel-b%C3%BCchert-b50ba6229/"><img alt="LinkedIn" height="32" width="32" src="icons/linkedin.png"></a>
 </p>
